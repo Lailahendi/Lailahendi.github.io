@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+
+  background-color:  rgba(104, 208, 246, 0.801);
+}
+
+canvas {
+  background-color: rgba(108, 69, 155, 0.801);
+}
+
+img {
+  display: none;
+}
